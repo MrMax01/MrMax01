@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Massimo</h1>
 <h3 align="center">A Full-Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **Amazon Web Service**
+- 🌱 I’m currently learning **Docker**
 
 - 📫 How to reach me **massimo.mauro00@gmail.com**
 
